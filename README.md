@@ -97,4 +97,4 @@ The NewsApp project is licensed under the MIT License. For more details, please 
 
 Thank you for using and contributing to the NewsApp project! We hope you find it valuable and enjoy using it.
 
-For any questions or issues, please contact us at your@email.com.
+For any questions or issues, please contact us at stevendungu94@gmail.com.
